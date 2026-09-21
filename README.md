@@ -77,8 +77,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/ibrahim-attarwala/DSA/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ibrahim-attarwala/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ibrahim-attarwala/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
