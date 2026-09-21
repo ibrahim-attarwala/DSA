@@ -84,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ibrahim-attarwala/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ibrahim-attarwala/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ibrahim-attarwala/DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/ibrahim-attarwala/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ibrahim-attarwala/DSA/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ibrahim-attarwala/DSA/tree/master/0342-power-of-four) |
 ## Brainteaser
 |  |
 | ------- |
