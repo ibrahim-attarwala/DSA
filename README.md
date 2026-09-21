@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ibrahim-attarwala/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahim-attarwala/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/ibrahim-attarwala/DSA/tree/master/0264-ugly-number-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ibrahim-attarwala/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ibrahim-attarwala/DSA/tree/master/0076-minimum-window-substring) |
+| [0264-ugly-number-ii](https://github.com/ibrahim-attarwala/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ibrahim-attarwala/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ibrahim-attarwala/DSA/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/ibrahim-attarwala/DSA/tree/master/0264-ugly-number-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/ibrahim-attarwala/DSA/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/ibrahim-attarwala/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ibrahim-attarwala/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ibrahim-attarwala/DSA/tree/master/0326-power-of-three) |
