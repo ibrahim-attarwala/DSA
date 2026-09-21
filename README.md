@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ibrahim-attarwala/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahim-attarwala/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/ibrahim-attarwala/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ibrahim-attarwala/DSA/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ibrahim-attarwala/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ibrahim-attarwala/DSA/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ibrahim-attarwala/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/ibrahim-attarwala/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ibrahim-attarwala/DSA/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
