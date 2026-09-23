@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ibrahim-attarwala/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahim-attarwala/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/ibrahim-attarwala/DSA/tree/master/0264-ugly-number-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ibrahim-attarwala/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ibrahim-attarwala/DSA/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/ibrahim-attarwala/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ibrahim-attarwala/DSA/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ibrahim-attarwala/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
