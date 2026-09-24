@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ibrahim-attarwala/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/ibrahim-attarwala/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ibrahim-attarwala/DSA/tree/master/0342-power-of-four) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ibrahim-attarwala/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ibrahim-attarwala/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
 | ------- |
