@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ibrahim-attarwala/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ibrahim-attarwala/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/ibrahim-attarwala/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ibrahim-attarwala/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ibrahim-attarwala/DSA/tree/master/0342-power-of-four) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ibrahim-attarwala/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/ibrahim-attarwala/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
 | ------- |
