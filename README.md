@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ibrahim-attarwala/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ibrahim-attarwala/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4054-count-shadow-pairs-i](https://github.com/ibrahim-attarwala/DSA/tree/master/4054-count-shadow-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ibrahim-attarwala/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/ibrahim-attarwala/DSA/tree/master/4062-transform-array-using-pair-operations) |
 ## Two Pointers
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ibrahim-attarwala/DSA/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
+| [4054-count-shadow-pairs-i](https://github.com/ibrahim-attarwala/DSA/tree/master/4054-count-shadow-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ibrahim-attarwala/DSA/tree/master/0042-trapping-rain-water) |
+| [4054-count-shadow-pairs-i](https://github.com/ibrahim-attarwala/DSA/tree/master/4054-count-shadow-pairs-i) |
 ## Queue
 |  |
 | ------- |
