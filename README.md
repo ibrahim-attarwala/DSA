@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ibrahim-attarwala/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahim-attarwala/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ibrahim-attarwala/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ibrahim-attarwala/DSA/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/ibrahim-attarwala/DSA/tree/master/0224-basic-calculator) |
@@ -179,9 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ibrahim-attarwala/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
