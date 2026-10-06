@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ibrahim-attarwala/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ibrahim-attarwala/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ibrahim-attarwala/DSA/tree/master/0342-power-of-four) |
+| [0470-implement-rand10-using-rand7](https://github.com/ibrahim-attarwala/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ibrahim-attarwala/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ibrahim-attarwala/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
@@ -193,4 +194,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ibrahim-attarwala/DSA/tree/master/0022-generate-parentheses) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ibrahim-attarwala/DSA/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ibrahim-attarwala/DSA/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ibrahim-attarwala/DSA/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
