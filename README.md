@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ibrahim-attarwala/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ibrahim-attarwala/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ibrahim-attarwala/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ibrahim-attarwala/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4054-count-shadow-pairs-i](https://github.com/ibrahim-attarwala/DSA/tree/master/4054-count-shadow-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ibrahim-attarwala/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ibrahim-attarwala/DSA/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ibrahim-attarwala/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ibrahim-attarwala/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ibrahim-attarwala/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ibrahim-attarwala/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
