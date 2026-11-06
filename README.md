@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ibrahim-attarwala/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ibrahim-attarwala/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/ibrahim-attarwala/DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/ibrahim-attarwala/DSA/tree/master/4054-count-shadow-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ibrahim-attarwala/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/ibrahim-attarwala/DSA/tree/master/4062-transform-array-using-pair-operations) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ibrahim-attarwala/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ibrahim-attarwala/DSA/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ibrahim-attarwala/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/ibrahim-attarwala/DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Bit Manipulation
 |  |
 | ------- |
